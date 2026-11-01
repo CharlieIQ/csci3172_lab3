@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "Push-Up", "muscleGroup": "chest", "equipment": "bodyweight", "difficulty": "beginner", "instructions": "Keep your body straight, lower your chest to the floor, then push back up." },
+    { "id": 2, "name": "Bench Press", "muscleGroup": "chest", "equipment": "barbell", "difficulty": "intermediate", "instructions": "Lower the bar to mid-chest with control, then press it back up over your shoulders." },
+    { "id": 3, "name": "Dumbbell Fly", "muscleGroup": "chest", "equipment": "dumbbell", "difficulty": "intermediate", "instructions": "With a slight bend in the elbows, open your arms wide and bring the weights back together over your chest." },
+    { "id": 4, "name": "Bodyweight Squat", "muscleGroup": "legs", "equipment": "bodyweight", "difficulty": "beginner", "instructions": "Sit your hips back and down until your thighs are parallel to the floor, then stand up." },
+    { "id": 5, "name": "Back Squat", "muscleGroup": "legs", "equipment": "barbell", "difficulty": "intermediate", "instructions": "With the bar on your upper back, squat to depth while keeping your chest up." },
+    { "id": 6, "name": "Walking Lunge", "muscleGroup": "legs", "equipment": "dumbbell", "difficulty": "beginner", "instructions": "Step forward and lower your back knee toward the floor, then step through with the other leg." },
+    { "id": 7, "name": "Romanian Deadlift", "muscleGroup": "legs", "equipment": "barbell", "difficulty": "intermediate", "instructions": "Hinge at the hips with a flat back, lowering the bar along your legs until you feel a hamstring stretch." },
+    { "id": 8, "name": "Pull-Up", "muscleGroup": "back", "equipment": "bodyweight", "difficulty": "intermediate", "instructions": "Hang from the bar and pull until your chin clears it, then lower with control." },
+    { "id": 9, "name": "Bent-Over Row", "muscleGroup": "back", "equipment": "barbell", "difficulty": "intermediate", "instructions": "Hinge forward and row the bar to your lower ribs, squeezing your shoulder blades together." },
+    { "id": 10, "name": "Single-Arm Dumbbell Row", "muscleGroup": "back", "equipment": "dumbbell", "difficulty": "beginner", "instructions": "Brace one hand on a bench and row the dumbbell to your hip." },
+    { "id": 11, "name": "Deadlift", "muscleGroup": "back", "equipment": "barbell", "difficulty": "advanced", "instructions": "Drive through your feet and stand up with the bar, keeping it close to your body and your back neutral." },
+    { "id": 12, "name": "Overhead Press", "muscleGroup": "shoulders", "equipment": "barbell", "difficulty": "intermediate", "instructions": "Press the bar from your shoulders to overhead, locking out your arms." },
+    { "id": 13, "name": "Lateral Raise", "muscleGroup": "shoulders", "equipment": "dumbbell", "difficulty": "beginner", "instructions": "Raise the dumbbells out to your sides until your arms are parallel to the floor." },
+    { "id": 14, "name": "Pike Push-Up", "muscleGroup": "shoulders", "equipment": "bodyweight", "difficulty": "intermediate", "instructions": "With your hips high in an inverted V, lower your head toward the floor and press back up." },
+    { "id": 15, "name": "Bicep Curl", "muscleGroup": "arms", "equipment": "dumbbell", "difficulty": "beginner", "instructions": "Curl the dumbbells up without swinging, then lower them slowly." },
+    { "id": 16, "name": "Tricep Dip", "muscleGroup": "arms", "equipment": "bodyweight", "difficulty": "beginner", "instructions": "Lower your body by bending your elbows to about 90 degrees, then press back up." },
+    { "id": 17, "name": "Skull Crusher", "muscleGroup": "arms", "equipment": "barbell", "difficulty": "intermediate", "instructions": "Lying on a bench, bend at the elbows to lower the bar toward your forehead, then extend." },
+    { "id": 18, "name": "Plank", "muscleGroup": "core", "equipment": "bodyweight", "difficulty": "beginner", "instructions": "Hold a straight line from head to heels on your forearms, bracing your abs." },
+    { "id": 19, "name": "Hanging Leg Raise", "muscleGroup": "core", "equipment": "bodyweight", "difficulty": "advanced", "instructions": "Hang from a bar and raise your legs to hip height or higher without swinging." },
+    { "id": 20, "name": "Russian Twist", "muscleGroup": "core", "equipment": "dumbbell", "difficulty": "beginner", "instructions": "Sit leaning back with your feet up and rotate the weight from side to side." }
+]
