@@ -56,6 +56,7 @@ app.get('/visit-count', (req, res) => {
     res.json({ visits });
 });
 
+// Adds a new exercise to the list of exercises
 app.get('/api/exercises', (req, res) => {
     const { muscle, equipment, difficulty } = req.query;
     let results = exercises;
